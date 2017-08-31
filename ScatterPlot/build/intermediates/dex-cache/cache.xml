@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\andre\AndroidStudioProjects\ScatterPlot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e783809da4e9907742fe91f3bfa213137e4515bf">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\ScatterPlot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8d8cff59d7df61c2d90ad5f707e22475b5642a42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andre\AndroidStudioProjects\ScatterPlot\app\libs\jzy3d-api-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4084a2513d677af096a8be552675cdf84818aff7">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\ScatterPlot\app\build\intermediates\transforms\dex\debug\folders\1000\2\jzy3d-api-1.0.1_b7a3dda1a55315cf78a4894ecaf94ba130612f25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andre\AndroidStudioProjects\ScatterPlot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\ScatterPlot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cb9889888558f8ce79af7eedf559146a03270ad3\classes.dex" />
+    </item>
+
+</items>
